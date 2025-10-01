@@ -13,7 +13,7 @@ This wiki is written in Markdown, just like GitHub's own Markdown files! One of 
 
 ### Adding New Pages
 
-Adding a new page to the wiki is easy! After creating a fork of this repository, edit it by following these steps:
+Adding a new page to the documentation is easy! After creating a fork of this repository, edit it by following these steps:
 1. Add your page in the appropriate place by editing the `mkdocs.yml` file. You can even create new sections if you don't see one that fits your needs!
 2. Create a Markdown file in the location you specified in the previous step, and that's it!
 
@@ -21,7 +21,7 @@ After you added your contributions, open a pull request, and if approved, your p
 
 ### Material for MkDocs features
 
-Since this wiki uses Material for MkDocs, you might want to check its [references](https://squidfunk.github.io/mkdocs-material/reference/) to better understand its features. You can use plain Markdown, but you can also use admonitions, buttons, and even icons from Font Awesome.
+Since this documentation uses Material for MkDocs, you might want to check its [references](https://squidfunk.github.io/mkdocs-material/reference/) to better understand its features. You can use plain Markdown, but you can also use admonitions, buttons, and even icons from Font Awesome.
 
 ### Testing
 
