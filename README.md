@@ -1,9 +1,4 @@
-<h1>
-    <a href="#rsdk">
-        <img width="120" align="left" src="docs/assets/icon.png">
-    </a>
-    Ivan's All Caxton Typefaces You Can Use Buffet Documentation
-</h1>
+# Ivan's All Caxton Typefaces You Can Use Buffet Documentation
 
 Website with documentation for Ivan's All Caxton Typefaces You Can Use Buffet Minecraft Modpack, powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
