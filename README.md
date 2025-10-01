@@ -2,13 +2,13 @@
     <a href="#rsdk">
         <img width="120" align="left" src="docs/assets/icon.png">
     </a>
-    RSDK Modding Wiki
+    Ivan's All Caxton Typefaces You Can Use Buffet Documentation
 </h1>
 
-Website with documentation, resources, and guides for Retro Engine modding, powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) and inspired by [HedgeDocs](https://hedgedocs.com/).
+Website with documentation for Ivan's All Caxton Typefaces You Can Use Buffet Minecraft Modpack, powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 > [!WARNING]
-> This site is a heavy work-in-progress. Expect missing information and empty/placeholder pages. Everything is subject to change.
+> This site is very recent, please expect little amount of pages and documentation!
 
 ## Contributing
 
@@ -38,9 +38,3 @@ You can test your changes locally before committing. To do so:
     - You can also build a static site instead, using `mkdocs build`
 
 The served webpage will auto refresh whenever you make changes to the files.
-
-### Scope
-
-This wiki currently covers Retro Engine versions 1-5(U), as well as all games released for them. Given the work-in-progress state of the wiki, we would like to focus on finishing documentation for those RSDK versions before expanding to cover later versions of the engine.
-
-In addition to the official releases of RSDK games, this wiki covers the decompilations for Retro Engine versions 2-5(U) and Sonic Mania, as well as GameAPI/ModAPI. However, this wiki only documents the master [RSDKModding](https://github.com/RSDKModding) repositories for the decomps. Please do not add documentation, guides, etc. for any unofficial forks or ports of the decompilations or APIs.
