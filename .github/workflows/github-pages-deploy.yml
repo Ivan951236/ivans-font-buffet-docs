@@ -1,4 +1,6 @@
 name: github-pages-deploy
+permissions:
+  contents: write
 on:
   push:
     paths:
