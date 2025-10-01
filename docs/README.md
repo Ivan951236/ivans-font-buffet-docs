@@ -1,5 +1,7 @@
 # Ivan's All Caxton Typefaces You Can Use Buffet Documentation
 
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
 Welcome to Ivan's All Caxton Typefaces You Can Use Buffet Documentation!
 
 I Hope this site is helpful to you and to whatever question you have!
