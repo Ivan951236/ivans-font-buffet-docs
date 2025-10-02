@@ -120,3 +120,5 @@ nav:
   - Modlist:
      - caxton-docs/ModList/MAIN.md
      - caxton-docs/ModList/EMOD.md
+  - Issues:
+     - caxton-docs/Known-Issues/Generic.md
