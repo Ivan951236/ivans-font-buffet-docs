@@ -52,11 +52,7 @@ after that, you can try to upload the modpack's log to the mod's issue tracker h
 
 Q5: Can I try to make a request to add another mod to the modpack?
 
-A5: It depends, if the mod is lightweight enough and is also useful enough, then we can take it, as this modpack is meant to be lightweight, however if it too heavy in either size or performance or both, then we cannot take it.
-
-It has to be lightweight enough to run nicely on Nvidia GeForce GTX 1660 Super and Intel Core i7 6700 combo, with 16GB of RAM and a terabyte of storage with generally no lower than 45 FPS would be great
-
-The actual bare mininum is for my gaming rig not to crash even right after loading a world which is a Nvidia GeForce GTX 760 with Intel Core i5 2400, 8GB of RAM and a terabyte of total storage
+A5: Any mod is acceptable, as long I assume this would be a great addition!
 
 Q6: Why is gaming rig so old and slow?
 
