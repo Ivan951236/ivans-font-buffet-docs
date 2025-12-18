@@ -54,13 +54,9 @@ Q5: Can I try to make a request to add another mod to the modpack?
 
 A5: Any mod is acceptable, as long I assume this would be a great addition!
 
-Q6: Why is gaming rig so old and slow?
+Q6: May I please install shaders in this modpack?
 
-A6: Being poor is a factor too. `*cries in poor*`
-
-Q7: May I please install shaders in this modpack?
-
-A7: You may not, and the punishment is the same as disabling the modpack's branding which is told in the branding resource pack's descripition
+A6: You may not, and the punishment is the same as disabling the modpack's branding which is told in the branding resource pack's descripition
 
 The content of its manifest reads:
 
@@ -77,21 +73,21 @@ The content of its manifest reads:
 }
 ```
 
-Q8: Can I actually use it with my own local server?
+Q7: Can I actually use it with my own local server?
 
-A8: any server works, any server hoster softwares works as well, like Purpur, Paper and Bukkit, and also any Online Server hosting site such as Modrinth Servers (the .modrinth.gg servers), Hypixel (with Microsoft Account), Medal and more also supported! (offline (aka cracked) servers also works)
+A7: any server works, any server hoster softwares works as well, like Purpur, Paper and Bukkit, and also any Online Server hosting site such as Modrinth Servers (the .modrinth.gg servers), Hypixel (with Microsoft Account), Medal and more also supported! (offline (aka cracked) servers also works)
 
 However, your server must include the mod's own version for those server hosters to use properly, just like how Simple Voice Chat has a plugin for Paper server hosting software that has be to installed on the server for everyone to hear you.
 
-Q9: Are all datapacks supported?
+Q8: Are all datapacks supported?
 
-A9: Of course they are supported, this is because datapacks is just like minecraft's own official mod loader for singleplayer worlds only, they cannot access the mod-loader directly, so they act like normal,
+A8: Of course they are supported, this is because datapacks is just like minecraft's own official mod loader for singleplayer worlds only, they cannot access the mod-loader directly, so they act like normal,
 
 this is unless the datapack requires andrew's datapack utils, in which case, they can access directly just to use its features.
 
-Q10: Can you actually access the web from minecraft?
+Q9: Can you actually access the web from minecraft?
 
-A10: It does require a mod that isn't in the modpack, so you must install the mod for it, to make it work, the mod name's is I don't really remember, but the mod is indeed there and still getting updates.
+A9: It does require a mod that isn't in the modpack, so you must install the mod for it, to make it work, the mod name's is I don't really remember, but the mod is indeed there and still getting updates.
 
 
 Modpack Exclusive Issues and FAQ isn't there yet, if a new Modpack specfic issues happends, please let me know and I will update the documentation for it.
